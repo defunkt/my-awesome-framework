@@ -1,0 +1,3 @@
+[submodule "plugins/my-fantastic-plugin"]
+	path = plugins/my-fantastic-plugin
+	url = git://github.com/defunkt/my-fantastic-plugin.git
